@@ -4,36 +4,34 @@
 	Provide the election commision with an analysis of the voter turnout for each county, the percentage from each county of the total count, and the county with the highest turnout
 
 ## Election-Audit Results
--------------------------
-Total Votes: 369,711
--------------------------
 
-County Votes:
-Arapahoe
-Votes: 24,801
-Percentage of Total: 6.7%
+### Votes: 
+	 * County Votes:
+		 * Arapahoe
+	 		 * Votes: 24,801
+		 	 * Percentage of Total: 6.7%
 
-Denver
-Votes: 306,055
-Percentage of Total: 82.8%
+		 * Denver
+			 * Votes: 306,055
+			 * Percentage of Total: 82.8%
 
-Jefferson
-Votes: 38,855
-Percentage of Total: 10.5%
+		 * Jefferson
+			 * Votes: 38,855
+			 * Percentage of Total: 10.5%
 
--------------------------
-Largest County Turnout: Denver
--------------------------
+	 * Total Votes: 369,711
+	 * Largest County Turnout: Denver
 
-Charles Casper Stockham: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
-Raymon Anthony Doane: 3.1% (11,606)
+### Candidates:
+	* Charles Casper Stockham: 23.0% (85,213)
+	* Diana DeGette: 73.8% (272,892)
+	* Raymon Anthony Doane: 3.1% (11,606)
 
--------------------------
-Winner: Diana DeGette
-Winning Vote Count: 272,892
-Winning Percentage: 73.8%
--------------------------
+### Winner:
+	* Diana DeGette
+	* Vote Count: 272,892
+	* Winning Percentage: 73.8%
+
 
 
 ## Election-Audit Summary
