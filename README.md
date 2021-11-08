@@ -38,5 +38,5 @@ Winning Percentage: 73.8%
 
 ## Election-Audit Summary
 	As this script currently exists, it can parse any .csv with Ballot ID, County, and Candidate, producing an analysis like the one seen in Election-Audit Results.  
-	If all Voter IDs for each county were included in the data set, ie including those who did not vote.  A 'voter turnout' metric could be provided in the analysis
-	If the data set provided the time, date, and facility in which the Ballots were cast, the script could determine how crowded each facility was at what time, thereby providing us with the analytics with which to improve voter accessibility
+	If all Voter IDs for each county were provided in the data set, ie including those who did not vote.  A 'voter turnout' percentage could be provided in the analysis.
+	If the data set provided the time, date, and facility in which the Ballots were cast, the script could determine how crowded each facility was at what time, thereby providing us with the analytics with which to improve voter accessibility.
